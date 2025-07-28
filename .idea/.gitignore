@@ -1,3 +1,6 @@
+#!/bin/bash
+echo "username=juliomaister"
+echo "password=$GITHUB_TOKEN_PERSONAL"
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -6,3 +9,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/compiler.xml
+/encodings.xml
+/jarRepositories.xml
+/misc.xml
+/vcs.xml
